@@ -1,0 +1,26 @@
+{
+  "labels":[
+    "rec.sport.hockey",
+    "comp.sys.ibm.pc.hardware",
+    "talk.politics.mideast",
+    "comp.sys.mac.hardware",
+    "sci.electronics",
+    "talk.religion.misc",
+    "sci.crypt",
+    "sci.med",
+    "alt.atheism",
+    "rec.motorcycles",
+    "rec.autos",
+    "comp.windows.x",
+    "comp.graphics",
+    "sci.space",
+    "talk.politics.guns",
+    "misc.forsale",
+    "rec.sport.baseball",
+    "talk.politics.misc",
+    "comp.os.ms-windows.misc",
+    "soc.religion.christian"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
